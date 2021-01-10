@@ -58,9 +58,10 @@ No dia 01/10/2020 publiquei no Linkidin e no Twitter as **14 Formações na Digi
 ![DIO 08 Desenvolvedor Back-end PHP](https://user-images.githubusercontent.com/76437195/104135696-1e994f00-5368-11eb-808d-c5dd51a7ff61.jpg)
 
 #### [9. O certificado acima atesta que Orlando SilvestreFilho concluiu com êxito o bootcamp SPTech Desenvolvimento Back-end em 30/06/2020 na Digital Innovation One. O certificado indica que todo o bootcamp foi concluído, conforme validado pelo aluno.](https://certificates.digitalinnovation.one/12F49A59)
+![DIO 09 SPTech Desenvolvimento BackEnd](https://user-images.githubusercontent.com/76437195/104136147-cdd72580-536a-11eb-9402-04a1ef4ed3b9.jpg)
 
 #### [10. O certificado acima atesta que Orlando SilvestreFilho concluiu com êxito o bootcamp Cloud Computing & Serverless em 03/07/2020 na Digital Innovation One. O certificado indica que todo o bootcamp foi concluído, conforme validado pelo aluno.](https://certificates.digitalinnovation.one/2AE1A93D)
-
+![DIO 10 Cloud Computing   Serveless (1)](https://user-images.githubusercontent.com/76437195/104136153-d4fe3380-536a-11eb-9dd1-68e5af7dd92c.jpg)
 
 #### [11. O certificado acima atesta que Orlando SilvestreFilho concluiu com êxito o bootcamp Especialista em Inovação Digital em 19/06/2020 na Digital Innovation One. O certificado indica que todo o bootcamp foi concluído, conforme validado pelo aluno](https://certificates.digitalinnovation.one/845659C0)
 ![DIO 11 Especialista em Inovacao Digital](https://user-images.githubusercontent.com/76437195/104135714-353fa600-5368-11eb-8dee-586801bafff4.jpg)
