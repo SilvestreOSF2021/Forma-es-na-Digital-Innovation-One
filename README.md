@@ -1,6 +1,6 @@
 # Formações na Digital Innovation One (#DIO)
 
-No dia 01/10/2020 publiquei no #Linkidin e no #Twitter as 14 Formações na Digital Innovation One (#DIO) onde já temos como #Conquistas um total de 113 Conclusões em Diversas #TrilhasDeTI... Registro meus Agradecimentos ao Iglá Generoso, #GustavoPereira, Pablo Zaniolo  e toda #TeamDIO... 
+No dia 01/10/2020 publiquei no Linkidin e no Twitter as **14 Formações na Digital Innovation One (#DIO)** onde já temos como Conquistas um total de **113 Conclusões em Diversas #TrilhasDeTI**... Registro meus Agradecimentos ao Iglá Generoso, GustavoPereira, Pablo Zaniolo  e toda #TeamDIO... 
 
 #### [1. Global Fullstack Developer](https://certificates.digitalinnovation.one/00D1DCD0)
 
