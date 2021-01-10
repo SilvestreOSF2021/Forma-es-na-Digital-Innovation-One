@@ -32,3 +32,14 @@ No dia 01/10/2020 publiquei no #Linkidin e no #Twitter as 14 Formações na Digi
 
 ## [Fonte: Perfil do OSF no Facebook](https://www.facebook.com/SilvestreOSF/posts/4792159844187395)
 
+
+#### [1. O certificado acima atesta que Orlando SilvestreFilho concluiu com êxito o bootcamp Global Fullstack Developer em 16/06/2020 na Digital Innovation One. O certificado indica que todo o bootcamp foi concluído, conforme validado pelo aluno.](https://certificates.digitalinnovation.one/00D1DCD0)
+![DIO 01 Global Fullstack Developer](https://user-images.githubusercontent.com/76437195/104112926-d24c0180-52ca-11eb-8659-eea2be6cf7e5.jpg)
+
+#### [2. O certificado acima atesta que Orlando SilvestreFilho concluiu com êxito o bootcamp Fullstack Developer Banco Carrefour em 20/06/2020 na Digital Innovation One. O certificado indica que todo o bootcamp foi concluído, conforme validado pelo aluno.](https://certificates.digitalinnovation.one/00D1DCD0)
+![DIO 02  Fullstack Developer Banco Carrefour](https://user-images.githubusercontent.com/76437195/104113045-21466680-52cc-11eb-84fb-5847386687f1.jpg)
+
+#### [3. O certificado acima atesta que Orlando SilvestreFilho concluiu com êxito o bootcamp Desenvolvedor Fullstack Python em 16/06/2020 na Digital Innovation One. O certificado indica que todo o bootcamp foi concluído, conforme validado pelo aluno.](https://certificates.digitalinnovation.one/F8F091D6)
+![DIO 03 Desenvolvedor Fullstack Python](https://user-images.githubusercontent.com/76437195/104113048-26a3b100-52cc-11eb-99a8-89f241d5c3c4.jpg)
+
+
