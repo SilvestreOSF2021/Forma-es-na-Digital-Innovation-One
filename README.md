@@ -42,24 +42,34 @@ No dia 01/10/2020 publiquei no Linkidin e no Twitter as **14 Formações na Digi
 #### [3. O certificado acima atesta que Orlando SilvestreFilho concluiu com êxito o bootcamp Desenvolvedor Fullstack Python em 16/06/2020 na Digital Innovation One. O certificado indica que todo o bootcamp foi concluído, conforme validado pelo aluno.](https://certificates.digitalinnovation.one/F8F091D6)
 ![DIO 03 Desenvolvedor Fullstack Python](https://user-images.githubusercontent.com/76437195/104113048-26a3b100-52cc-11eb-99a8-89f241d5c3c4.jpg)
 
-
 #### [4.O certificado acima atesta que Orlando SilvestreFilho concluiu com êxito o bootcamp SPTech Desenvolvimento Fullstack em 30/06/2020 na Digital Innovation One. O certificado indica que todo o bootcamp foi concluído, conforme validado pelo aluno.](https://certificates.digitalinnovation.one/4E10B5A3)
+![DIO 04 SPTech Desenvolvimento Fullstack](https://user-images.githubusercontent.com/76437195/104135584-afbbf600-5367-11eb-854e-7a3a453734ba.jpg)
 
 #### [5. O certificado acima atesta que Orlando SilvestreFilho concluiu com êxito o bootcamp Desenvolvedor Front-end ReactJS em 16/06/2020 na Digital Innovation One. O certificado indica que todo o bootcamp foi concluído, conforme validado pelo aluno.](https://certificates.digitalinnovation.one/0919E6C7)
+![DIO 05 Desenvolvedor Front-end ReactJS](https://user-images.githubusercontent.com/76437195/104135672-ff022680-5367-11eb-8965-98ed34855b70.jpg)
 
 #### [6. O certificado acima atesta que Orlando SilvestreFilho concluiu com êxito o bootcamp Desenvolvedor Front-end Angular em 17/06/2020 na Digital Innovation One. O certificado indica que todo o bootcamp foi concluído, conforme validado pelo aluno.](https://certificates.digitalinnovation.one/D6002D19)
+![DIO 06 Desenvolvedor Front Angular](https://user-images.githubusercontent.com/76437195/104135678-06c1cb00-5368-11eb-8d39-5d0bfb28564f.jpg)
 
 #### [7. O certificado acima atesta que Orlando SilvestreFilho concluiu com êxito o bootcamp Backend Developer Carrefour em 18/06/2020 na Digital Innovation One. O certificado indica que todo o bootcamp foi concluído, conforme validado pelo aluno.](https://certificates.digitalinnovation.one/649302D8)
+![DIO 07 Backend Desenvolvedor Carrefour](https://user-images.githubusercontent.com/76437195/104135687-12ad8d00-5368-11eb-9875-bb31aa232db3.jpg)
 
 #### [8. O certificado acima atesta que Orlando SilvestreFilho concluiu com êxito o bootcamp Desenvolvedor Back-end PHP em 15/06/2020 na Digital Innovation One. O certificado indica que todo o bootcamp foi concluído, conforme validado pelo aluno.](https://certificates.digitalinnovation.one/1736E5DE)
+![DIO 08 Desenvolvedor Back-end PHP](https://user-images.githubusercontent.com/76437195/104135696-1e994f00-5368-11eb-808d-c5dd51a7ff61.jpg)
 
 #### [9. O certificado acima atesta que Orlando SilvestreFilho concluiu com êxito o bootcamp SPTech Desenvolvimento Back-end em 30/06/2020 na Digital Innovation One. O certificado indica que todo o bootcamp foi concluído, conforme validado pelo aluno.](https://certificates.digitalinnovation.one/12F49A59)
 
 #### [10. O certificado acima atesta que Orlando SilvestreFilho concluiu com êxito o bootcamp Cloud Computing & Serverless em 03/07/2020 na Digital Innovation One. O certificado indica que todo o bootcamp foi concluído, conforme validado pelo aluno.](https://certificates.digitalinnovation.one/2AE1A93D)
 
+
 #### [11. O certificado acima atesta que Orlando SilvestreFilho concluiu com êxito o bootcamp Especialista em Inovação Digital em 19/06/2020 na Digital Innovation One. O certificado indica que todo o bootcamp foi concluído, conforme validado pelo aluno](https://certificates.digitalinnovation.one/845659C0)
+![DIO 11 Especialista em Inovacao Digital](https://user-images.githubusercontent.com/76437195/104135714-353fa600-5368-11eb-8dee-586801bafff4.jpg)
 
-#### [12. O certificado acima atesta que Orlando SilvestreFilho concluiu com êxito o bootcamp Programa Empregotech Curitiba - Intermediário em 21/06/2020 na Digital Innovation One. O certificado indica que todo o bootcamp foi concluído, conforme validado pelo aluno](https://certificates.digitalinnovation.one/0F58DF8B)
+#### [12. O certificado acima atesta que Orlando SilvestreFilho concluiu com êxito o bootcamp Become Remote em 01/06/2020 na Digital Innovation One. O certificado indica que todo o bootcamp foi concluído, conforme validado pelo aluno.](https://certificates.digitalinnovation.one/D6EC7064)
+![DIO 12 Become Remote](https://user-images.githubusercontent.com/76437195/104135722-3c66b400-5368-11eb-8fd5-7319f34e6da2.jpg)
 
-#### [13. O certificado acima atesta que Orlando SilvestreFilho concluiu com êxito o bootcamp Programa Empregotech Curitiba - Básico em 25/06/2020 na Digital Innovation One. O certificado indica que todo o bootcamp foi concluído, conforme validado pelo aluno.](https://certificates.digitalinnovation.one/896E0FAE)
+#### [13. O certificado acima atesta que Orlando SilvestreFilho concluiu com êxito o bootcamp Programa Empregotech Curitiba - Intermediário em 21/06/2020 na Digital Innovation One. O certificado indica que todo o bootcamp foi concluído, conforme validado pelo aluno](https://certificates.digitalinnovation.one/0F58DF8B)
+![DIO 13 Programa Emprogotech Curitiba Intermediario](https://user-images.githubusercontent.com/76437195/104135733-47b9df80-5368-11eb-8f6d-a0ee74d36591.jpg)
 
+#### [14. O certificado acima atesta que Orlando SilvestreFilho concluiu com êxito o bootcamp Programa Empregotech Curitiba - Básico em 25/06/2020 na Digital Innovation One. O certificado indica que todo o bootcamp foi concluído, conforme validado pelo aluno.](https://certificates.digitalinnovation.one/896E0FAE)
+![DIO 14 Programa Emprogotech Basico](https://user-images.githubusercontent.com/76437195/104135741-4f798400-5368-11eb-8223-cce9d182c738.jpg)
